@@ -1,0 +1,21 @@
+{
+  "name": "maildocker",
+  "description": "Official Maildocker NodeJS library.",
+  "version": "1.0",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "dependencies": {
+    "mime": "^1.2.9",
+    "request": "^2.40.0",
+    "lodash": "^3.0.1 || ^2.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "0.0.2",
+    "mocha": ">= 0.9.0",
+    "chai": ">= 0.1.6",
+    "nock": "^0.16.0",
+    "sinon": "^1.6.0"
+  },
+  "optionalDependencies": {}
+}
