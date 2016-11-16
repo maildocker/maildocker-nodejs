@@ -1,7 +1,7 @@
 {
   "name": "maildocker",
   "description": "Official Maildocker NodeJS library.",
-  "version": "1.0",
+  "version": "1.0.0",
   "engines": {
     "node": ">= 0.4.7"
   },
