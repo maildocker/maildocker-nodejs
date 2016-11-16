@@ -1,6 +1,6 @@
 "use strict";
 
-var package_json    = require('package.json');
+var package_json    = require('./package.json');
 var _               = require('lodash');
 var request         = require('request');
 var Mail           = require('./message');
